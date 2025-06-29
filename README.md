@@ -11,3 +11,6 @@ Link for resources:
 
 I've recently shared my current dark-themed tablet dashboard layout. If you're interested, check it out here:
 https://github.com/reylinux/Dark-Transparent-Tablet-Dashboard
+
+💬 Personal note: While this layout looks great, I don’t recommend using this exact tablet for complex dashboards. Performance can be sluggish, especially with advanced cards, dynamic themes, and large automations.
+If you're planning to run a more complex setup, invest in a higher-end tablet for a smoother experience.
